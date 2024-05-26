@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **junaidwali.career@gmail.com**
 
-- 📄 Know about my experiences [here](https://1drv.ms/w/s!Anq7vJTitGZ0iooCXjnClWvPzS9b0Q?e=H99Z5L)
+- 📄 Know about my experiences [here](https://1drv.ms/w/s!Anq7vJTitGZ0iooCQ8AhHBhAPXJtmQ?e=4SM8dZ)
 
 - ⚡ Fun fact **I like to write screenplays in my free time**
 
