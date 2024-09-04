@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/junaidwalikhan" target="blank"><img src="https://img.shields.io/twitter/follow/junaidwalikhan?logo=twitter&style=for-the-badge" alt="junaidwalikhan" /></a> </p>
 
-- 🔭 I’m currently working on [Cube Rush](https://github.com/JunaidWali/CubeRush)
+- 🔭 I’m currently working on [Project Oasis](https://github.com/JunaidWali/project-oasis-flutter)
 
 - 🌱 I’m currently learning **Node.js, React Native, Unity, JavaScript**
 
-- 👯 I’m looking to collaborate on [PocketGo](https://github.com/JunaidWali/PocketGo)
+- 👯 I’m looking to collaborate on [Project Oasis](https://github.com/JunaidWali/project-oasis-flutter)
 
 - 🤝 I’m looking for help with **Finding my first job**
 
